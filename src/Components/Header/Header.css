@@ -1,0 +1,21 @@
+
+
+.div-links-container a:hover {
+    color: #3d6ae8;
+    box-shadow: 0 4px 0;
+    transition: 0.2s;
+}
+
+.div-links-container {
+    display: flex;
+    column-gap: 5%;
+    justify-content: flex-end;
+    padding: 1% 6% 1% 6%;
+    border-bottom: 1px solid #ebebeb;
+}
+
+.div-links-container a {
+    font-family: 'Montserrat-Bold';
+    text-decoration: none;
+    padding-bottom: 4px;
+}

@@ -1,0 +1,72 @@
+.div-home-wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 3%;
+    /* padding: 8% 10% 3% 10%; */
+    height: 100vh;
+    justify-content: space-between;
+}
+
+.div-home-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 7%;
+}
+
+.div-intro {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.div-intro label, .div-intro label span {
+   font-family: 'Montserrat-Bold';
+}
+
+.div-intro label span {
+    color: #3d6ae8;
+}
+
+#intro {
+    font-size: 12px;
+    font-weight: normal;
+    text-align: justify;
+    font-family: 'Poppins-Regular';
+}
+
+.mypicture {
+    flex: 1;
+    background-image: url('/src/Media/Mypicture_bubble.png');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 60%;
+}
+
+.div-intro-actions {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    column-gap: 5%;
+    padding-top: 7%;
+}
+
+.div-intro-actions button {
+    padding: 2%;
+    background: transparent;
+    color: #3d6ae8;
+    border-radius: 1vh;
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px solid #3d6ae8;
+    width: 34%;
+}
+
+.div-intro-actions button:hover {
+    color: white;
+    background: #3d6ae8;
+    box-shadow: 0 0 0 5px #3b83f65f;
+    transition: 0.4s;
+}
