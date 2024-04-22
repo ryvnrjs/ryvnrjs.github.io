@@ -70,3 +70,47 @@
     box-shadow: 0 0 0 5px #3b83f65f;
     transition: 0.4s;
 }
+
+
+.div-intro {
+    animation: 2s div-Up ease-out;
+  }
+  @keyframes div-Up {
+    0% {
+      opacity: 0;
+      transform: translateY(80%);
+    }
+    20% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+  }
+
+
+  .mypicture {
+    animation: 2s div-Left ease-out;
+  }
+  @keyframes div-Left {
+    0% {
+      opacity: 0;
+      transform: translateX(80%);
+    }
+    20% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+      transform: translateX(0%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0%);
+    }
+  }
