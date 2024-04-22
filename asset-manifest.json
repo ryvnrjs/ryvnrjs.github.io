@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ryvnrjs.github.io/static/css/main.6948c499.css",
-    "main.js": "/ryvnrjs.github.io/static/js/main.646bb8e9.js",
-    "static/media/Mypicture_bubble.png": "/ryvnrjs.github.io/static/media/Mypicture_bubble.9b4c6e006289f201b6ae.png",
-    "static/media/FUTURA55REGULAR.TTF": "/ryvnrjs.github.io/static/media/FUTURA55REGULAR.88fc69339cb42ac7496d.TTF",
-    "static/media/FUTURA65MEDIUM.TTF": "/ryvnrjs.github.io/static/media/FUTURA65MEDIUM.764fbf25f7a0be7fa820.TTF",
-    "static/media/FUTURA75BOLD.TTF": "/ryvnrjs.github.io/static/media/FUTURA75BOLD.4d0efa8d9a2d229ee4dc.TTF",
-    "static/media/FUTURA45LIGHT.TTF": "/ryvnrjs.github.io/static/media/FUTURA45LIGHT.3b6d9872972595ac3d89.TTF",
-    "static/media/Montserrat-Bold.ttf": "/ryvnrjs.github.io/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
-    "static/media/Montserrat-Medium.ttf": "/ryvnrjs.github.io/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
-    "static/media/Montserrat-Light.ttf": "/ryvnrjs.github.io/static/media/Montserrat-Light.7179b7d2ac9b599db5f9.ttf",
-    "static/media/Montserrat-Regular.ttf": "/ryvnrjs.github.io/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
-    "static/media/Poppins-Light.ttf": "/ryvnrjs.github.io/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
-    "static/media/Poppins-Regular.ttf": "/ryvnrjs.github.io/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
-    "static/media/Poppins-Medium.ttf": "/ryvnrjs.github.io/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
-    "static/media/Poppins-Bold.ttf": "/ryvnrjs.github.io/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
-    "index.html": "/ryvnrjs.github.io/index.html",
-    "main.6948c499.css.map": "/ryvnrjs.github.io/static/css/main.6948c499.css.map",
-    "main.646bb8e9.js.map": "/ryvnrjs.github.io/static/js/main.646bb8e9.js.map"
+    "main.css": "/static/css/main.e713a1a0.css",
+    "main.js": "/static/js/main.646bb8e9.js",
+    "static/media/Mypicture_bubble.png": "/static/media/Mypicture_bubble.9b4c6e006289f201b6ae.png",
+    "static/media/FUTURA55REGULAR.TTF": "/static/media/FUTURA55REGULAR.88fc69339cb42ac7496d.TTF",
+    "static/media/FUTURA65MEDIUM.TTF": "/static/media/FUTURA65MEDIUM.764fbf25f7a0be7fa820.TTF",
+    "static/media/FUTURA75BOLD.TTF": "/static/media/FUTURA75BOLD.4d0efa8d9a2d229ee4dc.TTF",
+    "static/media/FUTURA45LIGHT.TTF": "/static/media/FUTURA45LIGHT.3b6d9872972595ac3d89.TTF",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.7179b7d2ac9b599db5f9.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "index.html": "/index.html",
+    "main.e713a1a0.css.map": "/static/css/main.e713a1a0.css.map",
+    "main.646bb8e9.js.map": "/static/js/main.646bb8e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.6948c499.css",
+    "static/css/main.e713a1a0.css",
     "static/js/main.646bb8e9.js"
   ]
 }
