@@ -2,9 +2,14 @@
     overflow: hidden;
 }
 
-.div-links-container a:hover {
+.div-links-container a:not(.icon):hover {
     color: #3d6ae8;
     box-shadow: 0 4px 0;
+    transition: 0.2s;
+}
+
+.div-links-container a.icon:hover .div-myIcon {
+    filter: drop-shadow(0px 0px 6px #81c7ff);
     transition: 0.2s;
 }
 
@@ -42,4 +47,5 @@
     background-size: 50%;
     width: 50px;
     padding: 12px;
+    height: 25px;
 }
