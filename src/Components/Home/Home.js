@@ -1,5 +1,6 @@
+import FacebookIcon from '../../Media/SVG/FacebookIcon';
 import GithubIcon from '../../Media/SVG/GithubIcon';
-import LinkedIn from '../../Media/SVG/LinkedIn';
+import LinkedinIcon from '../../Media/SVG/LinkedinIcon';
 import Separator from '../../Separator';
 import '../Home/Home.css';
 
@@ -18,7 +19,8 @@ const Home = () => {
                         <button>Download CV</button>
                     </div>
                     <div className="div-intro-social-media-icon">
-                        <LinkedIn />
+                        <LinkedinIcon />
+                        <FacebookIcon />
                         <GithubIcon />
                     </div>
                 </div>
