@@ -1,0 +1,23 @@
+.div-separator-bar {
+    padding-top: 6px;
+    width: 125px;
+    background: #3d6ae8;
+}
+
+.div-separator-section {
+    display: flex;
+    flex-direction: row;
+    border-top: 1px solid #3d6ae8;
+    padding: 1% 0 2% 0;
+}
+
+.div-separator-header {
+    width: 10%;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.div-separator-content {
+    width: 90%;
+    text-align: justify;
+}
