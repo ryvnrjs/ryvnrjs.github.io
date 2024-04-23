@@ -11,16 +11,35 @@
 .div-links-container {
     display: flex;
     column-gap: 5%;
-    justify-content: flex-end;
-    padding: 1% 6% 1% 6%;
+    justify-content: space-between;
+    /* padding: 1%; */
     border-bottom: 1px solid #ebebeb;
     position: fixed;
-    width: 88%;
+    width: 100%;
     background: white;
+    align-content: center;
 }
 
 .div-links-container a {
     font-family: 'Montserrat-Bold';
     text-decoration: none;
     padding-bottom: 4px;
+}
+
+.div-links-buttons {
+    display: flex;
+    column-gap: 7%;
+    width: 65%;
+    padding: 1% 6%;
+    justify-content: flex-end;
+}
+
+
+.div-myIcon {
+    background-image: url('/src/Media/R.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    width: 50px;
+    padding: 12px;
 }
