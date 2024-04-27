@@ -21,3 +21,14 @@
     width: 90%;
     text-align: justify;
 }
+
+.div-separator-content-title {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.div-separator-skills {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
