@@ -6,9 +6,10 @@ const Navbar = () => {
             <Link to="/" className='icon'><div className="div-myIcon"></div></Link>
             <div className="div-links-buttons">
                 <Link to="/">Home</Link>
-                <Link to="/AboutMe">About Me</Link>
+                <Link to="/AboutMe">About</Link>
                 <Link to="/Skill">Skills</Link>
                 <Link to="/Works">Works</Link>
+                <Link to="/Projects">Projects</Link>
                 <Link to="/Contact">Contact</Link>
             </div>
         </div>
