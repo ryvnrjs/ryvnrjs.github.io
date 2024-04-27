@@ -23,6 +23,7 @@
     width: 100%;
     background: white;
     align-content: center;
+    z-index: 99;
 }
 
 .div-links-container a {

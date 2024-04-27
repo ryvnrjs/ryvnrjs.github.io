@@ -32,3 +32,19 @@
     flex-direction: row;
     justify-content: space-between;
 }
+
+.div-separator-exp {
+    display: flex;
+    flex-direction: column;
+}
+
+.div-separator-exp-title {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.div-separator-exp-spacing {
+    margin-top: 20px;
+    padding-top: 10px;
+}
