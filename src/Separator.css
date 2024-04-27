@@ -48,3 +48,16 @@
     margin-top: 20px;
     padding-top: 10px;
 }
+
+.div-separator-seminar, .div-separator-tertiary {
+    display: flex;
+    flex-direction: column;
+    row-gap: 40px;
+}
+
+.div-separator-seminar-title, .div-separator-tertiary {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    flex-direction: column;
+}
