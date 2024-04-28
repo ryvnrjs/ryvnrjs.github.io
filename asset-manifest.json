@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.340b4284.css",
-    "main.js": "/static/js/main.8dbab662.js",
-    "static/media/Mypicture_bubble.png": "/static/media/Mypicture_bubble.caecfb430aa72cbd3af3.png",
+    "main.css": "/static/css/main.87349846.css",
+    "main.js": "/static/js/main.868b9533.js",
+    "static/media/Mypicture_bubble.png": "/static/media/Mypicture_bubble.7bee545e45ee30a0f459.png",
     "static/media/FUTURA55REGULAR.TTF": "/static/media/FUTURA55REGULAR.88fc69339cb42ac7496d.TTF",
     "static/media/FUTURA65MEDIUM.TTF": "/static/media/FUTURA65MEDIUM.764fbf25f7a0be7fa820.TTF",
     "static/media/FUTURA75BOLD.TTF": "/static/media/FUTURA75BOLD.4d0efa8d9a2d229ee4dc.TTF",
@@ -16,11 +16,11 @@
     "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
     "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
     "index.html": "/index.html",
-    "main.340b4284.css.map": "/static/css/main.340b4284.css.map",
-    "main.8dbab662.js.map": "/static/js/main.8dbab662.js.map"
+    "main.87349846.css.map": "/static/css/main.87349846.css.map",
+    "main.868b9533.js.map": "/static/js/main.868b9533.js.map"
   },
   "entrypoints": [
-    "static/css/main.340b4284.css",
-    "static/js/main.8dbab662.js"
+    "static/css/main.87349846.css",
+    "static/js/main.868b9533.js"
   ]
 }
