@@ -5,12 +5,16 @@ import Separator from '../../Separator';
 import '../Home/Home.css';
 import ScrollToTopButton from '../../ScrollToTopButton';
 import AOS from 'aos';
+import AnimationBackground from '../../AnimationBackground';
+
 
 const Home = () => {
     AOS.init();
     return (
         <div className="div-home-wrapper">
+          
             <div className="div-home-container">
+            <AnimationBackground />
                 <div className="div-intro">
                     <label>Hi,</label>
                     <label>I'm <span>Reyven</span></label>
