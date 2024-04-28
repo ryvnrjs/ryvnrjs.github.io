@@ -38,7 +38,7 @@ $circle-size: 100px;
 // $colors: #45ffdc, #ffef96, #ff94a1, #cda1ff, #31b4ff, #4800c0, #3d6ae8;
 $colors: #80ffdb, #ffef96, #ff94a1, #a06cd5, #31b4ff, #88d4ab, #3d6ae8;
 $shapes: '\f111', '\f10c', '\f068', '\f22d', '\f077',  '\f04b', '\f067', '\f04d';
-$shape-count: 80;
+$shape-count: 30;
 
 
 @for $i from 1 through $shape-count {

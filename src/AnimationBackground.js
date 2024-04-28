@@ -14,7 +14,7 @@ function AnimationBackground() {
 
   useEffect(() => {
     // Create an array of shape indices (from 1 to 50)
-    const shapeArray = Array.from({ length: 50 }, (_, i) => i + 1);
+    const shapeArray = Array.from({ length: 30 }, (_, i) => i + 1);
     setShapes(shapeArray);
   }, []);
 
